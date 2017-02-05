@@ -1,0 +1,19 @@
+login.php -> students login
+teacherlogin.php -> teacher's login
+adminlogin.php -> administrator login
+
+Student has to sign up adding his id no and email id and password.
+His idno and password will ne matched with the one in the users database where admin has added all the students.
+If id no and email id is correct he will be sent an confirmation mail viewing which he has to go into the link sent in the mail thus his account being activated and he can login.
+Teacher usernames and password are already entered by the admin and provided to teachers.
+
+Whenever a student's account is activated his unique folder gets created under filemanager->students->idno . where folder name would be his id no.He can manage his files and cannot view other's files.
+Same is for teachers.
+
+Classroom news are events belonging to a particular class and only students from that class can view those events and create and comment on them.Also teachers can view,create and comment on events belonging to his/her branch.Out of which only the class teacher has the power to delete events in his/her class.
+
+Teachers have to activate their course after which it could be accessible to the course students.They can add assignments and upload marks of the student.These marks would be shown to the relevant student only.They can also delete their course and assignments.
+Students can view assignments and can submit them if teacher selects submit online option.
+The assignment question file uploaded by the teacher for the student is uploaded by default in the assignmentuploads folder of each teacher which is created at time of his teacher's first login.The teacher provides the submit url where students submission would be stored.
+
+The admin adds all news and resources which is visible on the home pages.He can view all documents and add/edit/remove users.He can delete posts from blogs and forum.

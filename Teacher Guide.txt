@@ -1,0 +1,24 @@
+Here is the guide to student dashboard:
+
+Update profile : allows you to change your email id and password.
+MyEvents : view events created by you.
+MyArticles : view articles created by you.
+MyPosts : view posts created by you.
+
+Events : Create and comment on events related to your branch.
+
+Courses:Add and delete courses , Add course assignments , all uploaded assignment file would be stored in assignmentuploads folder , upload marks csv file according to the format specified this will ensure marks are viewed by the relevant student only.
+
+Documents : personal document manager to add/delete/modify files.
+
+Email : Access your emails using your email id and password.
+
+Blog : compose articles and comment on them.
+
+Forum : start discussions and reply on existing ones.
+
+In line edit : You can edit or delete the events/articles/blogs added by you.Also if you are a class teacher you can edit and delete all events belonging to your own class.
+
+Note : 
+Do not post bad contents on the website . It will not be tolerated and can result in deletion of your dashboard account.
+Contact the administrator if your account is not created properly or some other problems occur.

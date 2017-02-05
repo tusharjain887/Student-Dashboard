@@ -1,0 +1,5 @@
+place all the files in the xampp server
+create database credit 
+import credit.sql file which contains all the queries in the credit database.
+configure webmail on xampp
+Edit config.php file which contains all the database information like username and password

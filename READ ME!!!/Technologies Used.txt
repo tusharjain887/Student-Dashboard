@@ -1,0 +1,7 @@
+Xampp
+Mercury Mail for sending mails of activation and email support.
+Webmail as email client.
+
+Configure mercury mail in the xampp as without it the email activation for signup will not be performed.
+
+Also configure webmail files on xampp  
